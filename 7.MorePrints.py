@@ -9,6 +9,7 @@ print(f"This is a {var} string.!")
 print(var2.format(var))
 print(var2.format("new"))
 print("This is a {} string.!".format(var))
+print("This is a {} string.!")
 print("This is a {} string.!".format("new"))
 print("This is a new string.!")
 print(
