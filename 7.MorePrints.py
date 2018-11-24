@@ -1,3 +1,4 @@
+#We will skip number 6 because the files started from 2 and I don't wanna change all the previous files.
 #7 More Prints
 print("7. More Prints.!")
 print("This is more like a repeatation exercise,")

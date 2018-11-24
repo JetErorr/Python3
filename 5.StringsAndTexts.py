@@ -21,3 +21,4 @@ print(var0.format(var))
 var = True
 print(var0.format(var))
 #Those were boolean variables: var and var0
+#We will skip number 6 because the files started from 2 and I don't wanna change all the previous files.
