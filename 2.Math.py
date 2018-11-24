@@ -1,6 +1,6 @@
 #2 Numbers and Math
 print("#2 Numbers and Math")
-print("Now we'll move on to the basic algebra in Python 3 ")
+print("Now we'll move on to the basic algebra in Python 3")
 print("This line will be followed by the result of 3+4 :", 3 + 4)
 print("This line will be followed by the result of 24*7 :", 24 * 7)
 print(
