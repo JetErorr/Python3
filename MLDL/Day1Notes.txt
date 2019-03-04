@@ -1,0 +1,78 @@
+Types of AI Problems
+Mundane Tasks
+	NLP
+	Probs related to vision
+	Perception ( Common sense reasoning )
+
+Formal Tasks
+	Games: Carrom, Chess
+	Mathematical Problems : Geometry and Logics
+Expert Tasks
+	Medical Diagnosis System
+	Scientific Analysis
+	Business Analysis
+	Automated Cars
+
+ML Applications:
+Face Detection
+Obj: Image Patches
+Classes: Face and Not Face
+
+Character Recognition
+Objects: Images / Image patches
+Classes: Digits 0,1,2,3,4,5,6,7,8,9
+
+Medical Images Processing
+Objects : Pixels
+Classes : Different tisses types, stroma, lument
+
+
+
+
+Machine Learning Types
+Supervised, Unsupervised, Semi-supervised, Reinforcement
+1.Conti / Categorical Target Variable
+	Regression / Classification
+		Housing Price Prediction / Medical Imaging
+2. Target Variable not available
+	Clustering / Association
+		Customer Segmentation / Market Basket Analysis
+3. Categorical Target Variable
+	Classification / Clustering
+		Text Classification / Lane-Finding on GPS data
+4.Catergorical Target Variable / Target Variable not available
+	Classification / Control
+		Optimized Marketing / Driverless Cars
+
+**F-Growth Algo
+
+What is Computer Vision
+	How to design computer that can understand and interpret information in images / video
+	50% of cerebral cortex is used for vision
+	Immensely useful for a variety of applications, like Object detection, road parsing, localozation, etc
+
+Challenges in computer vision	
+	Segmentation - Finding what to see
+	Object Representation - What things look like
+	Visual Learning - Of the what and How
+	Interface to cognition - Reasoning about what is seen
+
+
+
+1.Localization 
+2.Object Detection 
+3.Segmentation 
+
+
+-------DL-------
+DL vs ML
+1. Data Dependency
+2. Hardware Dependency
+3. Problem Solving Approach
+4. Feature Engineering
+5. Execution Time
+6. Interpretability
+
+1. Problem Solving Approach
+	Pattern recog
+	ML: 
